@@ -16,9 +16,9 @@ setup(
     version='9.0',
     author='python273',
     author_email='whoami@python273.pw',
-    url='https://github.com/python273/vk_api',
+    url='https://github.com/jasper1/vk_api/',
     description='Module for writing scripts for vk.com (vkontakte)',
-    download_url='https://github.com/python273/vk_api/archive/master.zip',
+    download_url='https://github.com/jasper1/vk_api/archive/master.zip',
     license='Apache License, Version 2.0, see LICENSE file',
 
     packages=['vk_api', 'jconfig'],
